@@ -6,6 +6,7 @@ Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: m
 
 | Lesson | Steps | Video | Interactive |
 |---|---|---|---|
+| [DRY: one rule, one place](dry/) | 11 | [Watch](https://www.youtube.com/watch?v=6-AdazoxS-4) | [Open](https://illbebackend.dev/lessons/dry/swift/) |
 | [Clean code: rename for intent](rename-for-intent/) | 13 | [Watch](https://www.youtube.com/watch?v=VVwh2jKhMgQ) | [Open](https://illbebackend.dev/lessons/rename-for-intent/swift/) |
 
 ## How to use it
